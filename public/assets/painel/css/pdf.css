@@ -1,0 +1,17 @@
+/*Utilidades do Relatorio de Contatos*/
+
+table{
+    border: 1px solid $333;
+    width: 100%;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+}
+
+.container{
+    
+    font-family: sans-serif;
+    font-size: 14px;
+}

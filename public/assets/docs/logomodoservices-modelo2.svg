@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="182.07155mm"
+   height="65.654884mm"
+   viewBox="0 0 182.07155 65.654884"
+   version="1.1"
+   id="svg362"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="logomodoservices-modelo2.svg">
+  <defs
+     id="defs356">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1364">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1360" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1362" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1364"
+       id="radialGradient638"
+       cx="290.38385"
+       cy="-221.81815"
+       fx="290.38385"
+       fy="-221.81815"
+       r="91.035774"
+       gradientTransform="matrix(1.4352769,0.00480317,-9.1978633e-4,0.27548277,-309.67756,287.71923)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="382.86554"
+     inkscape:cy="140.97269"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata359">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.852619,-108.63537)">
+    <g
+       id="g763">
+      <rect
+         y="108.76787"
+         x="13.985119"
+         height="65.389885"
+         width="181.80655"
+         id="rect603"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         y="108.76787"
+         x="13.985119"
+         height="65.389885"
+         width="181.80655"
+         id="rect603-8"
+         style="opacity:1;fill:url(#radialGradient638);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <g
+         style="fill:#ffffff"
+         transform="translate(-12.563315,-29.72168)"
+         id="g242-2">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 34.327181,156.70862 22.36772,13.47955 -0.214046,27.494 -22.367736,-13.47955 0.107035,-8.7724 15.41125,9.20033 v -9.73524 L 34.0061,165.48102 Z"
+           id="path1237-7-2-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 34.327181,156.70862 22.36772,13.47955 -0.214046,27.494 -22.367736,-13.47955 0.107035,-8.7724 15.41125,9.20033 v -9.73524 L 34.0061,165.48102 Z"
+           id="path1237-7-5-5-0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#ffffff"
+         transform="translate(-12.563315,-29.72168)"
+         id="g246-9">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 80.757783,156.70862 -22.36772,13.47955 0.214046,27.494 22.367728,-13.47955 -0.107027,-8.7724 -15.41125,9.20033 v -9.73524 l 15.625304,-9.41429 z"
+           id="path1237-2-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 80.757783,156.70862 -22.36772,13.47955 0.214046,27.494 22.367736,-13.47955 -0.107035,-8.7724 -15.41125,9.20033 v -9.73524 l 15.625304,-9.41429 z"
+           id="path1237-7-5-2-5-6"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#ffffff"
+         transform="translate(-12.563315,-29.72168)"
+         id="g250-0">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 34.426327,155.19733 c 0.302685,-0.0756 23.232648,-13.38946 23.232648,-13.38946 l 23.005628,13.31381 -7.643318,4.6901 -15.36231,-9.00196 -15.665003,9.15324 z"
+           id="path1256-0-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 34.426327,155.19733 c 0.302685,-0.0756 23.232648,-13.38946 23.232648,-13.38946 l 23.005628,13.31381 -7.643318,4.6901 -15.36231,-9.00196 -15.665003,9.15324 z"
+           id="path1256-9-2-2"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         id="text1352-7"
+         y="143.6689"
+         x="189.15283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.71433067px;line-height:125%;font-family:'Raleway ExtraBold';-inkscape-font-specification:'Raleway ExtraBold, ';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';fill:#ffffff;stroke:#ffffff;stroke-width:0.26458332px"
+           y="143.6689"
+           x="189.15283"
+           id="tspan1350-9"
+           sodipodi:role="line">ModoServices</tspan></text>
+      <text
+         transform="scale(1.0122753,0.98787356)"
+         id="text1352-7-2"
+         y="153.59486"
+         x="185.71729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.85655975px;line-height:125%;font-family:'Raleway ExtraBold';-inkscape-font-specification:'Raleway ExtraBold, ';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';fill:#ffffff;stroke:#ffffff;stroke-width:0.26458332px"
+           y="153.59486"
+           x="185.71729"
+           id="tspan1350-9-0"
+           sodipodi:role="line">Solução em Gestão de Serviços</tspan></text>
+    </g>
+  </g>
+</svg>

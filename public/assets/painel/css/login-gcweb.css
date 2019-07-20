@@ -1,0 +1,114 @@
+body{
+    min-height: 100vh;
+    background: #ccc;
+    background-image: url('https://picsum.photos/1500/800?random');
+    //background-image: url('https://unsplash.it/g/1500/800?random');
+
+}
+
+.login{
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 10px;
+    background: #5caa53;
+    padding: 40px 68px;
+    border-radius: 22px;
+    color: #151414;
+    box-shadow: 1px 6px 18px;
+}
+
+
+div.image-login{
+    text-align: center;
+}
+img.img-login{
+    max-width: 200px;
+}
+form.form-login{
+    margin-top: 14px;
+}
+form.form-login input{
+    width: 100%;
+    margin: 8px -2px;
+    padding: 11px;
+    font-size: 1.0em;
+    color: #404041;
+    border-radius: 10px;
+    border: 0px solid #f3f5f7;
+    height: 32px;
+    background: #f3f5f7;
+}
+form.form-login button{
+    /* width: 100%; */
+    padding: 10px 60px;
+    font-size: .8em;
+    font-weight: bold;
+    color: #FFF;
+    background: #e69500;
+    border: none;
+    border-radius: 7px;
+    height: 45px;
+    margin: 4px 0px;
+}
+.rel-pass{
+    color: #0c0c0c;
+    display: block;
+    text-decoration: none;
+    margin: 10px 0px;
+    font-family: sans-serif;
+}
+
+.logo-painel{
+
+    max-width: 200px;
+}
+
+.btn-login{
+
+    background: #2cbeef !important;
+
+    padding: 10px 0px !important;
+
+    height: 39px !important;
+
+    margin: 0px !important;
+
+    font-size: 1em !important;
+
+    color: #fff !important;
+
+    max-width: 201px !important;
+
+    cursor: pointer;
+}
+
+.texto-titulo{
+
+
+}
+
+.entrada{
+
+color: #0c0c0c;
+
+text-align: center;
+
+font-size: 16px;
+
+font-family: sans-serif;
+
+margin: 10px 6px;
+}
+
+.sub-title-conf{
+
+color: #0c0c0c;
+
+text-align: center;
+
+font-size: 1.2em;
+
+font-family: sans-serif;
+
+margin: -6px 9px;
+}
